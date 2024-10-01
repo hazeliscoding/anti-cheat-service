@@ -1,0 +1,6 @@
+@AntiCheatService.API_HostAddress = http://localhost:5147
+
+GET {{AntiCheatService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
